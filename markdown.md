@@ -65,6 +65,21 @@
 
   
 
+* Kết quả chạy được:
+
+  * $\hat{x}$
+
+  ![image-20200904112940586](C:\Users\Neo\AppData\Roaming\Typora\typora-user-images\image-20200904112940586.png)
+
+  * $b_0$
+
+    ![image-20200904113027037](C:\Users\Neo\AppData\Roaming\Typora\typora-user-images\image-20200904113027037.png)
+
+  * Mô hình:
+
+    ![image-20200904113750282](C:\Users\Neo\AppData\Roaming\Typora\typora-user-images\image-20200904113750282.png)
+
+
 
 ### Câu b. Chọn tính chất tốt nhất
 
@@ -77,6 +92,10 @@
   
 
 * Kết quả chạy được:
+
+  * Tính chất tốt nhất + Mô hình
+
+    ![image-20200904113615330](C:\Users\Neo\AppData\Roaming\Typora\typora-user-images\image-20200904113615330.png)
 
   * Bảng sai số
 
@@ -108,10 +127,14 @@
 
 * Kết quả chạy được:
 
-  * Bảng sai số
+  * Các tính chất tốt nhất + Mô hình:
 
+    ![image-20200904114843188](C:\Users\Neo\AppData\Roaming\Typora\typora-user-images\image-20200904114843188.png)
+
+  * Bảng sai số
+  
     | Các tính chất (index)                     | Sai số             |
-  | ----------------------------------------- | ------------------ |
+    | ----------------------------------------- | ------------------ |
     | 10,  1                                    | 0.5309400304379519 |
     | 10,  1,  6                                | 0.521684703694745  |
     | 10,  1,  6,  2                            | 0.5217960880728357 |
